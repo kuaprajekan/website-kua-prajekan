@@ -54,3 +54,21 @@ body { font-family: Arial, sans-serif; line-height: 1.6; color: #222; background
   .hero-text h2 { font-size:24px; }
   .hero-text p { font-size:14px; }
 }
+.deskripsi {
+  font-size: 14px;
+  color: #333;
+  font-style: italic;
+  margin: 6px 0 10px;
+}
+
+.galeri-grid figure {
+  text-align: center;
+}
+
+.galeri-grid figcaption {
+  font-size: 14px;
+  padding-top: 6px;
+  color: #333;
+  font-style: italic;
+}
+
